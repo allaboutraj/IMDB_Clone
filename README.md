@@ -33,7 +33,7 @@ To get started with the project, follow these steps:
 2. Install dependencies: npm install
 
 
-3. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the IMDb UI Clone.
+3. Open your browser and visit [http://localhost:3000](http://localhost:5173) to view the IMDb UI Clone.
 
 ## Features
 
