@@ -10,14 +10,14 @@ Welcome to the IMDb UI Clone project! This project aims to replicate the user in
 - **react-responsive-carousel**: Version ^3.2.23
 - **react-router-dom**: Version ^6.22.3
 
-##Home
+->Home
 ![image](https://github.com/allaboutraj/IMDB_Clone/assets/49842899/012b46f6-939e-42b3-b192-e0f982f544f9)
 
 
-##Popular
+->Popular
 ![image](https://github.com/allaboutraj/IMDB_Clone/assets/49842899/cf38b528-2937-4fce-ae5a-b690564dc551)
 
-##Details Page
+->Details Page
 ![image](https://github.com/allaboutraj/IMDB_Clone/assets/49842899/7bf42974-6b66-4a7d-be14-bf6db3b18a42)
 
 
